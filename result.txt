@@ -1,0 +1,12 @@
+drwxr-xr-x   4 root root       4096 ноя 15 23:11 boot
+drwxr-xr-x  18 root root       4100 янв 24 21:39 dev
+drwxr-xr-x 135 root root      12288 дек 28 09:40 etc
+drwxr-xr-x   3 root root       4096 ноя 15 23:02 home
+drwxr-xr-x   3 root root       4096 ноя 15 23:15 media
+drwxr-xr-x   2 root root       4096 июл 31 19:28 mnt
+drwxr-xr-x   3 root root       4096 ноя 15 23:15 opt
+drwxr-xr-x  26 root root        800 янв 24 21:44 run
+drwxr-xr-x   2 root root       4096 ноя 15 23:07 snap
+drwxr-xr-x   2 root root       4096 июл 31 19:28 srv
+drwxr-xr-x  14 root root       4096 июл 31 19:29 usr
+drwxr-xr-x  14 root root       4096 июл 31 19:35 var
